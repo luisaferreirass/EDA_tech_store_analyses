@@ -1,4 +1,4 @@
-# Análise de venda da EDA tech store 
+# EDA de uma tech store 
 
 ## Descrição
 Este projeto realiza uma análise exploratória de dados de vendas utilizando Python e Pandas. O script processa um arquivo CSV contendo informações sobre vendas de produtos e gera insights relevantes para o negócio.
